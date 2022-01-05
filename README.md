@@ -3,14 +3,14 @@
 ### [👩‍💻](https://emojipedia.org/woman-technologist/) I am currently working on making a Mobile Finger Print Locker.
 
 
-### [📖](https://emojipedia.org/open-book/) I am currently learning linear regression.
+### [📖](https://emojipedia.org/open-book/) I am currently learning Digital Signal Processing.
 
 
 ### [🤲🏽](https://emojipedia.org/palms-up-together-medium-skin-tone/) I am looking forward to collaborating on projects and hackathons.
 
 ### 📢 I advocate for mental health hygiene.
 
-### [👁️‍🗨️](https://emojipedia.org/eye-in-speech-bubble/) Ask me about Python3.0.
+### [👁️‍🗨️](https://emojipedia.org/eye-in-speech-bubble/) Ask me about Python3.0, MATLAB.
 
 ### [🙂](https://emojipedia.org/slightly-smiling-face/) Pronouns: She/Her.
 
