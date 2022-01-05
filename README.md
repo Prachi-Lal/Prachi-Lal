@@ -19,7 +19,7 @@
 - ####  [🟢](https://emojipedia.org/large-green-circle/) [Hackerrank](https://www.hackerrank.com/RTM051?hr_r=1)
 - ####  [📧](https://emojipedia.org/e-mail/) [Email](mailto:prachi.lal.btech2020@sitpune.edu.in)
 - #### 💭 [Twitter](https://twitter.com/lal_prachi?s=08)
-- #### 📜 [Resume](https://github.com/Prachi-Lal/Prachi-Lal/files/7211411/Resume2.0.pdf) 
+- #### 📜 [Resume](https://docs.google.com/document/d/1zFBrvO44KMI7wfZVHu7ZC4qTVp0gaD3DjgM9Ok0-zU0/edit?usp=sharing) 
 
 
 
