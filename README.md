@@ -1,6 +1,6 @@
 # Hello Human!
 
-### [👩‍💻](https://emojipedia.org/woman-technologist/) I am currently working on making a Mobile Finger Print Locker.
+### [👩‍💻](https://emojipedia.org/woman-technologist/) I am currently working on Image Processing with MATLAB.
 
 
 ### [📖](https://emojipedia.org/open-book/) I am currently learning Digital Signal Processing.
