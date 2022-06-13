@@ -1,9 +1,9 @@
 # Hello Human!
 
-### [👩‍💻](https://emojipedia.org/woman-technologist/) I am currently working on Image Processing with MATLAB.
+### [👩‍💻](https://emojipedia.org/woman-technologist/) I am currently working on Data Analysis.
 
 
-### [📖](https://emojipedia.org/open-book/) I am currently learning Digital Signal Processing.
+### [📖](https://emojipedia.org/open-book/) I am currently learning Oracle Database.
 
 
 ### [🤲🏽](https://emojipedia.org/palms-up-together-medium-skin-tone/) I am looking forward to collaborating on projects and hackathons.
