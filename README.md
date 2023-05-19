@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### [👩‍💻](https://emojipedia.org/woman-technologist/)I am engineering student at Symbiosis Institute of Technology, Pune, Maharashtra, India. 
+### [👩‍💻](https://emojipedia.org/woman-technologist/)I am an engineering student at Symbiosis Institute of Technology, Pune, Maharashtra, India. 
 
 ### [👩‍💻](https://emojipedia.org/woman-technologist/)I specialize in the fields of Machine Learning, deep learning, data science, and Artificial Intelligence, and I have a great passion for these areas.
 
